@@ -1,4 +1,4 @@
-# python-hetzner-nodes
+# rundeck-hetzner-nodes
 
 A Python script, which can fetch all Hetzner Cloud nodes and output them as JSON array.
 
